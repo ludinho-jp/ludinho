@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ludinho/static/css/main.b84c8c67.css",
-    "main.js": "/ludinho/static/js/main.98fe5166.js",
+    "main.js": "/ludinho/static/js/main.2ed02589.js",
     "static/media/logo2.jpg": "/ludinho/static/media/logo2.09e6fabaaaf6eced37da.jpg",
     "static/media/logo.jpg": "/ludinho/static/media/logo.4e08816c3937b8484ff7.jpg",
     "index.html": "/ludinho/index.html",
     "main.b84c8c67.css.map": "/ludinho/static/css/main.b84c8c67.css.map",
-    "main.98fe5166.js.map": "/ludinho/static/js/main.98fe5166.js.map"
+    "main.2ed02589.js.map": "/ludinho/static/js/main.2ed02589.js.map"
   },
   "entrypoints": [
     "static/css/main.b84c8c67.css",
-    "static/js/main.98fe5166.js"
+    "static/js/main.2ed02589.js"
   ]
 }
