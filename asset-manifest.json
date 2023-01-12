@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ludinho/static/css/main.b84c8c67.css",
-    "main.js": "/ludinho/static/js/main.a35ec404.js",
-    "static/media/logo2.jpg": "/ludinho/static/media/logo2.09e6fabaaaf6eced37da.jpg",
-    "static/media/logo.jpg": "/ludinho/static/media/logo.4e08816c3937b8484ff7.jpg",
-    "index.html": "/ludinho/index.html",
-    "main.b84c8c67.css.map": "/ludinho/static/css/main.b84c8c67.css.map",
-    "main.a35ec404.js.map": "/ludinho/static/js/main.a35ec404.js.map"
+    "main.css": "/ludinho/public/static/css/main.b84c8c67.css",
+    "main.js": "/ludinho/public/static/js/main.f9631457.js",
+    "static/media/logo2.jpg": "/ludinho/public/static/media/logo2.09e6fabaaaf6eced37da.jpg",
+    "static/media/logo.jpg": "/ludinho/public/static/media/logo.4e08816c3937b8484ff7.jpg",
+    "index.html": "/ludinho/public/index.html",
+    "main.b84c8c67.css.map": "/ludinho/public/static/css/main.b84c8c67.css.map",
+    "main.f9631457.js.map": "/ludinho/public/static/js/main.f9631457.js.map"
   },
   "entrypoints": [
     "static/css/main.b84c8c67.css",
-    "static/js/main.a35ec404.js"
+    "static/js/main.f9631457.js"
   ]
 }
