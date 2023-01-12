@@ -15,7 +15,7 @@
   "homepage": "http://ludinho-jp.github.io/ludinho",
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "react-scripts build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
