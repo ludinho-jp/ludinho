@@ -4,7 +4,7 @@ import Home from "../pages/Home";
 export default function LudinhoRoutes() {
   return (
     <Routes>
-      <Route path="/ludinho" element={<Home />} />
+      <Route path="/" element={<Home />} />
     </Routes>
   );
 }
