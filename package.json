@@ -1,7 +1,7 @@
 {
   "name": "ludinho",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://ludinho-jp.github.io/ludinho",
+  "homepage": "https://ludinho-jp.github.io/ludinho",
   "scripts": {
     "build":"react-scripts build",
     "start": "react-scripts start",
