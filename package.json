@@ -14,6 +14,7 @@
   },
   "homepage": "http://ludinho-jp.github.io/ludinho",
   "scripts": {
+    "build":"react-scripts build",
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
