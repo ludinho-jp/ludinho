@@ -7,7 +7,8 @@
         2.2.3 texto
     2.3 footer
 ---
-dados para serem consumidos (json):
+dados para serem consumidos (blog.json):
+blog => array de objetos post.
 post: {
     titulo: 
     autor: 
