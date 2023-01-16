@@ -2,9 +2,9 @@
 2. Fazer um projeto de blog, componentes:
     2.1. header (logo com ludinho.online)
     2.2. conteudo
-        1.2.1. título do post
-        1.2.2. data e autor
-        1.2.3. texto
+        2.2.1. título do post
+        2.2.2. data e autor
+        2.2.3. texto
     2.3. footer
 ---
 dados para serem consumidos (json):
