@@ -1,9 +1,6 @@
-const fs = require("fs");
+const fs = require("fs/promises");
 
-fs.readFile("data.js", (error, data) => {
-  if (error) {
-    console.log(error);
-  } else {
-    console.log(data.toString());
-  }
-});
+(async function () {
+  const data = await fs.readFile("data.json");
+  console.log(data.toString());
+})();
