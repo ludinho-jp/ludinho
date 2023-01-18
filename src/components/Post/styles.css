@@ -1,0 +1,18 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+
+  font-size: 1.6rem;
+  padding: 5rem 2.5rem;
+  max-width: 70rem;
+  background-color: white;
+}
+
+.post header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  gap: 1rem;
+}
